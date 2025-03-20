@@ -1,0 +1,46 @@
+body{
+    background: #f8bbd0;
+    color:#537051;
+}
+
+principal{
+    padding: 30px;
+}
+
+.titulo-principal{
+    padding-left: 20px;
+}
+
+.titulo-centralizado{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+a{
+    background: #b5fcae;
+    position: absolute;
+    top: 10px;
+    right: 13;
+    text-transform: uppercase;
+    color: #fca4c1;
+    font-weight: bold;
+    font-size: 19px ;
+    text-decoration: none;
+
+}
+
+.fofo{
+    position: absolute;
+    width: 50%;
+    vertical-align: center;
+}
+
+.reenie-beanie-regular {
+    font-family: "Reenie Beanie", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
